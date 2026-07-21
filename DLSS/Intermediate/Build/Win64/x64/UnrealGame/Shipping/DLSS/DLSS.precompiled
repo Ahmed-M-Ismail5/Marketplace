@@ -1,0 +1,11 @@
+{
+	"OutputFiles": [
+		"Module.DLSS.cpp.obj",
+		"DLSS.cpp.obj",
+		"DLSSDenoiser.cpp.obj",
+		"DLSSUpscaler.cpp.obj",
+		"DLSSUpscalerHistory.cpp.obj",
+		"DLSSUpscalerModularFeature.cpp.obj"
+	],
+	"ToolChainVersion": "14.44.35219"
+}

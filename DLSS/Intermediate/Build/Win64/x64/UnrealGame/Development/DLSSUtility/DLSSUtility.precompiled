@@ -1,0 +1,9 @@
+{
+	"OutputFiles": [
+		"BiasCurrentColorPass.cpp.obj",
+		"DLSSUtility.cpp.obj",
+		"GBufferResolvePass.cpp.obj",
+		"VelocityCombinePass.cpp.obj"
+	],
+	"ToolChainVersion": "14.44.35219"
+}
