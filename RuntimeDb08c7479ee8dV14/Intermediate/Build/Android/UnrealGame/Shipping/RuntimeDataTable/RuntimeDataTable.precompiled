@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"../../../a/UnrealGame/Shipping/RuntimeDataTable/Module.RuntimeDataTable.cpp.o",
+		"../../../a/UnrealGame/Shipping/RuntimeDataTable/Module.RuntimeDataTable.cpp.o",
+		"../../../x/UnrealGame/Shipping/RuntimeDataTable/Module.RuntimeDataTable.cpp.o",
+		"../../../x/UnrealGame/Shipping/RuntimeDataTable/Module.RuntimeDataTable.cpp.o"
+	]
+}
