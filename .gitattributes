@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+TMSportPack/Content/TMSportPack/sport/textures/T_WoodLog_BC.uasset filter=lfs diff=lfs merge=lfs -text
+Megaplant_Library/Content/Megaplant_Library/Tree_Baltic_Pine/Instances/SKM_Branch_Baltic_Pine_04.uasset filter=lfs diff=lfs merge=lfs -text
+Megaplant_Library/Content/Megaplant_Library/Tree_Baltic_Pine/Instances/SKM_Branch_Baltic_Pine_05.uasset filter=lfs diff=lfs merge=lfs -text
+Megaplant_Library/Content/Megaplant_Library/Tree_Japanese_Medlar/Textures/T_Japanese_Medlar_01_Bark_NAH.uasset filter=lfs diff=lfs merge=lfs -text
+Megaplant_Library/Content/Megaplant_Library/Tree_Yoshino_Cherry/Instances/SKM_Branch_Yoshino_Cherry_01.uasset filter=lfs diff=lfs merge=lfs -text
+PlaygroundPack1/Content/PlaygroundPack1/Assets/PlaygroundClimbingWall02/textures/PlaygroundClimbingWall02_HR_Normal.uasset filter=lfs diff=lfs merge=lfs -text

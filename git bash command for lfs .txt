@@ -1,0 +1,5 @@
+1- Git Bash Here in repo folder
+2- paste this command:
+find . -type f -size +100M -not -path '*/.git/*' | while read -r file; do git lfs track "${file#./}"; done
+3-remove the previews command from the gitattributes file and save
+4-push modified gitattributes file
