@@ -9,3 +9,5 @@ Megaplant_Library/Content/Megaplant_Library/Tree_Yoshino_Cherry/Instances/SKM_Br
 PlaygroundPack1/Content/PlaygroundPack1/Assets/PlaygroundClimbingWall02/textures/PlaygroundClimbingWall02_HR_Normal.uasset filter=lfs diff=lfs merge=lfs -text
 Hillside/Content/Hillside/Geometry/Props_Interior/SM_ThrowBlanketChaiseLounge.uasset filter=lfs diff=lfs merge=lfs -text
 Hillside/Content/Hillside/Textures/Concrete/T_ConcreteDetail_4K_Normal.uasset filter=lfs diff=lfs merge=lfs -text
+SwimmingPool/Content/SwimmingPool/Maps/Demonstration_AlternatePool_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+SwimmingPool/Content/SwimmingPool/Maps/Demonstration_Master_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
